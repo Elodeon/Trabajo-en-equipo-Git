@@ -1,4 +1,6 @@
 DELETE *
-    FROM USUARIO1;
+    FROM AULA2;
+
+
 
 

@@ -4,6 +4,9 @@ DELETE *
 DELETE *
     FROM AULA2;
 
+DELETE *
+    FROM CURSO3;
+
 
 
 

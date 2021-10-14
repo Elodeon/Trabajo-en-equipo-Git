@@ -1,5 +1,5 @@
 DELETE *
-    FROM CURSO3;
+    FROM EDIFICIO4;
 
 
 

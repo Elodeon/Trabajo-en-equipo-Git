@@ -1,5 +1,5 @@
 DELETE *
-    FROM EDIFICIO4;
+    FROM USUARIO1;
 
 
 

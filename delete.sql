@@ -1,5 +1,6 @@
 DELETE *
-    FROM AULA2;
+    FROM CURSO3;
+
 
 
 

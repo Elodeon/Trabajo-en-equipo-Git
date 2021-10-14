@@ -7,6 +7,9 @@ DELETE *
 DELETE *
     FROM CURSO3;
 
+DELETE *
+    FROM EDIFICIO4;
+
 
 
 

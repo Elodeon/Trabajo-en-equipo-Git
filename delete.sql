@@ -10,12 +10,4 @@ DELETE *
 DELETE *
     FROM EDIFICIO4;
 
-DELETE *
-    FROM SALA5;
-
---Esto va a fallar
-
-
-
-
-
+--Esto va a fallar ahora 

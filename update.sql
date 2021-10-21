@@ -14,4 +14,4 @@ UPDATE edificio4
 SET numero = 4
 WHERE numero = 1;
 
---Esto va a ser un conflicto
+

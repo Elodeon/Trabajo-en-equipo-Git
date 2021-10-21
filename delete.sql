@@ -13,6 +13,8 @@ DELETE *
 DELETE *
     FROM SALA5;
 
+--Esto va a fallar
+
 
 
 

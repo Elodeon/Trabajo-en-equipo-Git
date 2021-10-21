@@ -14,3 +14,7 @@ UPDATE edificio4
 SET numero = 4
 WHERE numero = 1;
 
+UPDATE edificio4
+SET numero = 4
+WHERE numero = 1;
+
